@@ -1,0 +1,22 @@
+{
+  "name": "lzw",
+  "version": "1.0.0",
+  "description": "Lempel-Ziv-Welch algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavGaponov/lzw.git"
+  },
+  "keywords": [
+    "lzw"
+  ],
+  "author": "Yaroslav Gaponov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaroslavGaponov/lzw/issues"
+  },
+  "homepage": "https://github.com/YaroslavGaponov/lzw#readme"
+}

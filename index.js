@@ -34,7 +34,7 @@ function encode(buffer) {
     const result2 = [];
     let tmp = 0;
     length = result.length;
-    for (let i = 0; i < result.length; i++) {
+    for (let i = 0; i < length; i++) {
         if (i & 1) {
             result2.push(tmp | result[i] >>> 8);
             result2.push(result[i] & 0xff);
